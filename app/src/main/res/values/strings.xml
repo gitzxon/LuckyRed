@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LuckyRed</string>
+    <string name="accessibility">辅助功能</string>
+    <string name="enabled">已开启</string>
+    <string name="disabled">未开启</string>
+    <string name="notification">通知栏检测功能</string>
+    <string name="enable_it">去开启</string>
+    <string name="accessibility_info">激活以开启微信自动抢红包功能。</string>
+</resources>
